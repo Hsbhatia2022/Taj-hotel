@@ -23,7 +23,7 @@ function App() {
       <section className="hero">
         <h1>Welcome to Our Hotel</h1>
         <p>Experience the best hospitality in town</p>
-        <button>Book Now</button>
+        <button>Book A Stay </button>
       </section>
 
       {/* Content Section */}
@@ -39,7 +39,7 @@ function App() {
           <p>Email: [info@hotel.com](mailto:info@hotel.com)</p>
         </div>
         <div className="footer-bottom">
-          <p>&copy; 2024 Hotel Management Website</p>
+          <p>&copy; 2024 Taj Hotel Management Website</p>
         </div>
       </footer>
     </div>
